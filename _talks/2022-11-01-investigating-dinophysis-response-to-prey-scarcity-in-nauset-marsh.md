@@ -1,5 +1,5 @@
 ---
-title: "Investigating Dinophysis response to prey scarcity in Nauset Marsh"
+title: "Investigating *Dinophysis* response to prey scarcity in Nauset Marsh"
 collection: talks
 type: "Poster"
 permalink: /talks/2022-11-01-investigating-dinophysis-response-to-prey-scarcity-in-nauset-marsh
@@ -9,4 +9,4 @@ location: "Seattle, WA"
 ---
 
 
-Authors: Serena Sung-Clarke, Mrunmayee Pathare, David Beaudoin, Harriet Alexander, Juliette Smith, Michael Brosnahan
+<small>Authors: Serena Sung-Clarke, Mrunmayee Pathare, David Beaudoin, Harriet Alexander, Juliette Smith, Michael Brosnahan</small>

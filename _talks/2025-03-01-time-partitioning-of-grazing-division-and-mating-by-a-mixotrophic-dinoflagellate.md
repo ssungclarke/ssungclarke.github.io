@@ -9,4 +9,4 @@ location: "Portsmouth, NH"
 ---
 
 
-Authors: Serena Sung-Clarke, Nour Ayache, Wenguang Zhang, Juliette Smith, Michael Brosnahan
+<small>Authors: Serena Sung-Clarke, Nour Ayache, Wenguang Zhang, Juliette Smith, Michael Brosnahan</small>

@@ -46,6 +46,10 @@
   a + a {
     opacity: 0.5;
   }
+
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 /* remove border*/

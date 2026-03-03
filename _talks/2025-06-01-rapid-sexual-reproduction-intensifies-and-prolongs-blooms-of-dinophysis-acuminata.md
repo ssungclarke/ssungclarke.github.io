@@ -1,5 +1,5 @@
 ---
-title: "Rapid sexual reproduction intensifies and prolongs blooms of Dinophysis acuminata"
+title: "Rapid sexual reproduction intensifies and prolongs blooms of *Dinophysis acuminata*"
 collection: talks
 type: "Poster"
 permalink: /talks/2025-06-01-rapid-sexual-reproduction-intensifies-and-prolongs-blooms-of-dinophysis-acuminata
@@ -9,4 +9,4 @@ location: "Stonehill College, MA"
 ---
 
 
-Authors: Serena Sung-Clarke, Nour Ayache, Wenguang Zhang, Mengmeng Tong, Juliette Smith, Michael Brosnahan
+<small>Authors: Serena Sung-Clarke, Nour Ayache, Wenguang Zhang, Mengmeng Tong, Juliette Smith, Michael Brosnahan</small>

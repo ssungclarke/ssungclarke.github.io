@@ -9,4 +9,4 @@ location: "Providence, RI"
 ---
 
 
-Authors: Serena Sung-Clarke, Mrunmayee Pathare, Verena Lucke, Juliette Smith, Michael Brosnahan
+<small>Authors: Serena Sung-Clarke, Mrunmayee Pathare, Verena Lucke, Juliette Smith, Michael Brosnahan</small>

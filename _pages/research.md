@@ -6,7 +6,7 @@ redirect_from:
   - /research.html
 ---
 
-I research phytoplankton, and have been focused on studying those algal phytoplankton that cause harmful algal blooms. I employ a range of tools, from imaging, flow cytometry, physical observations, and 'omics, in both lab and natural environments, to better understand the ecology of these small but mighty organisms.
+I research phytoplankton, with a focus on algal phytoplankton that cause harmful algal blooms. I employ a range of tools, from imaging, flow cytometry, physical observations, and 'omics, in both lab and natural environments, to better understand the ecology of these small but mighty organisms.
 
 <!-- ![Dinophysis acuminata cell swims past its jumping Mesodinium prey](../images/dinophysis_mesodinium.gif) -->
 
@@ -24,7 +24,7 @@ One challenge in understanding when and where _Dinophysis_ blooms happen is that
 The sex lives of dinoflagellates
 ------
 <img src="../images/dinophysis_life_cycle.png" alt="Reproductive life cycle of Dinophysis" align="left" style ="float: left; margin-right: 20px;" width="200">
-All eukaryotes have a sexual life cycle, but its occurrence in microbial eukaryotes is often cryptic -- when and where and why do they enter a sexual reproductive cycles? My co-authors and I used imaging flow cytometry to show that [sexual reproduction is common during blooms of _Dinophysis_](publications.html), indicating that sexual reproduction (rather than binary fission) may be a more important mechanism of bloom development than previously thought. 
+All eukaryotes have a sexual life cycle, but its occurrence in microbial eukaryotes is often cryptic -- when and where and why do they enter a sexual reproductive cycles? My co-authors and I used imaging flow cytometry to show that [sexual reproduction is common during blooms of _Dinophysis_](/publications/), indicating that sexual reproduction (rather than binary fission) may be a more important mechanism of bloom development than previously thought. 
 
 
 Vertical migration and thin layer dynamics
@@ -32,9 +32,6 @@ Vertical migration and thin layer dynamics
 <img src="../images/pe_heatmap_2024_06-10_06-23.png" alt="Thin Layer Formation of Dinophysis through PE" align="right" style ="float: right; margin-left: 20px;" width="400">
 
 _Dinophysis_, like many dinoflagellates, can swim. Many dinoflagellates modulate their depth and form thin layers at depths that balance light and nutrient acquisition. Because _Dinophysis_ requires feeding on _Mesodinium_ prey to photosynthesize, this balance is a little more complicated. I am researching how the mixotrophic metabolism of _Dinophysis_ impacts its vertical migration behavior. Especially in coastal regions, the up-down swimming behavior of toxic algae can either promote bloom intensification (e.g., by trapping them in relatively deep embayments) or their dilution through tidal exchange.
-
-This work was presented at the 2026 Ocean Sciences Meeting.
-
 
 Dinoflagellate population genetics
 ------

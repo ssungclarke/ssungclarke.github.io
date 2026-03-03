@@ -9,4 +9,4 @@ location: "Woods Hole, MA"
 ---
 
 
-Authors: Serena Sung-Clarke, Nour Ayache, Wenguang Zhang, Mengmeng Tong, Juliette Smith, Michael Brosnahan
+<small>Authors: Serena Sung-Clarke, Nour Ayache, Wenguang Zhang, Mengmeng Tong, Juliette Smith, Michael Brosnahan</small>
