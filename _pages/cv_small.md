@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-Link to full CV: [Download CV](/files/SSC_CV_W2025.pdf)
+Link to full CV: [Download CV](/files/SSC_CV_F2026.pdf)
