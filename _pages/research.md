@@ -47,6 +47,6 @@ _Dinophysis_, like many dinoflagellates, can swim. Many dinoflagellates modulate
 Connectivity of _Dinophysis_ blooms
 ------
 
-<img src="../images/SP20240612_100x_3.png" alt="Microscopy image of Dinophysis" align="left" style ="float: left; margin-right: 20px;" width="120">
+<img src="../images/SP20240612_100x_3.jpg" alt="Microscopy image of Dinophysis" align="left" style ="float: left; margin-right: 20px;" width="120">
 We found several blooms of _Dinophysis_ on the Cape Cod National Seashore that varied in their phenology despite similar environments -- how are these populations related? I leveraged markers from meta-transcriptomic datasets to describe the relatedness between these populations with different bloom dynamics. This work is continuing through my postdoctoral research -- stay tuned!
 
